@@ -1,7 +1,7 @@
 /* Annother Css File */
    body {
      font-family: Arial, sans-serif;
-     background-color: #ff0000;
+     background-color: #959595;
    }
 
    .container {
@@ -10,6 +10,6 @@
    }
 
    h1 {
-     color: #333;
+     color: #ff0000;
      background-color:blue;
    }
